@@ -18,10 +18,11 @@ I am a data and technology enthusiast that is driven to help companies use their
 
 - **Programming:** Python, SQL
 - **Data Engineering:** ETL, Data Pipelines, Streaming Data, Data Warehousing
-- **Data Science:** 
+- **Data Science:** Machine learning, feature engineering
+- **Data Skills:** Statistical analysis, dimensional data modeling, data visualization
 - **Cloud Computing:** AWS, GCP
 - **Databases:** PostgreSQL, Snowflake, BigQuery, Redshift  
-- **Orchestration & Workflow Management:** Airflow, Mage  
+- **Orchestration & Workflow Management:** Airflow, Mage, dbt  
 - **Infrastructure as Code:** Terraform, Docker
 - **BI & Visualization:** Tableau, Power BI, Looker  
 
